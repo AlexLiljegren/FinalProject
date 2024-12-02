@@ -1,1 +1,2 @@
-# FinalProject-Proposal
+# FinalProject
+This is just a quick reflection about my final project. The scope and basic concept of the project changed pretty drastically when compared with my proposal, and I think it was for the best having now finished the project. Animation is what I'm passionate about and I'm proud of what I accomplished with this result. I used Photoshop to create the animation sequences, and then utilized pygame to import them into the code and add additional features.
