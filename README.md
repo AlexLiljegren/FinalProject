@@ -1,3 +1,4 @@
 # FinalProject
+## https://youtu.be/19rmilR_99E
 ## https://github.com/AlexLiljegren/FinalProject
 This is just a quick reflection and description about my final project. The scope and basic concept of the project changed pretty drastically when compared with my proposal, and I think it was for the best having now finished the project. Animation is what I'm passionate about and I'm proud of what I accomplished with this result. I used Photoshop to create the animation sequences, and then utilized pygame to import them into the code and add additional features. It features Fatalis, the mythical black dragon from the Monster Hunter game series, rearing up and roaring. Additional features include adding fire breath to its roar, fullscreen toggling, pausing the animation, and holding down the R G and B keys to add red, green and blue color filters respectively to the screen.
